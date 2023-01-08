@@ -1,0 +1,4 @@
+"C:\Users\Мария\Desktop\2 курс\матан\files\__main__.py"
+"C:\Users\Мария\Desktop\2 курс\матан\plagiat2\__main__.py"
+"C:\Users\Мария\Desktop\2 курс\матан\files\_workarounds.py"
+"C:\Users\Мария\Desktop\2 курс\матан\plagiat1\bn_inception_simple.py"
